@@ -6,8 +6,8 @@ I designed this layout with my own personal taste in mind, keeping the `',.` key
 
 I also decided to put common programming symbols (<()>\[]/{}) under the left hand when using the AltGr modifier key.
 
-![Unmodified state][https://github.com/denizdogan/dvorak-shmorak/blob/master/img/unmodified.png]
+![Unmodified state](https://github.com/denizdogan/dvorak-shmorak/blob/master/img/unmodified.png)
 
-![Shift state][https://github.com/denizdogan/dvorak-shmorak/blob/master/img/shift.png]
+![Shift state](https://github.com/denizdogan/dvorak-shmorak/blob/master/img/shift.png)
 
-![AltGr state][https://github.com/denizdogan/dvorak-shmorak/blob/master/img/altgr.png]
+![AltGr state](https://github.com/denizdogan/dvorak-shmorak/blob/master/img/altgr.png)
